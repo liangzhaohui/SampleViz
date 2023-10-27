@@ -1,4 +1,10 @@
-# SampleViz V 0.1.0
+# SampleViz V0.1.0
+
+Semifinished
+
+![interface.jpg](interface.jpg)
+
+You can view the demo.mp4 to understand the system's features and how it operates.
 
 ## Project setup
 ```
